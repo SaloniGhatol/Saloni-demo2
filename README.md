@@ -1,4 +1,4 @@
 # Saloni-demo2
 This is my first Git Repository.
 <br>
-Author - Saloni Ghatol
+Author - Saloni (Apna College)
